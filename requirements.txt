@@ -1,0 +1,14 @@
+pandas
+pandas_datareader
+yfinance
+jupyter
+ipython
+pyspark
+tensorflow
+keras
+matplotlib
+seaborn
+scikit-learn
+numpy
+scipy
+statsmodels
